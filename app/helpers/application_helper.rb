@@ -14,6 +14,6 @@ module ApplicationHelper
     	if((totalPageList % pageListLimit) == 0)
     		
     		
-
+        end
     end
 end
